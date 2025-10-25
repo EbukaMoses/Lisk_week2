@@ -286,7 +286,7 @@ const deployedContracts = {
       inheritedFunctions: {},
     },
     MyNFT: {
-      address: "0xBB6FB11933aE98d6136E2496fe41f163E498E50F",
+      address: "0xcACb470fe642542b810A5aF7DBA49d692cf602E5",
       abi: [
         {
           inputs: [],
@@ -666,7 +666,7 @@ const deployedContracts = {
       },
     },
     MyToken: {
-      address: "0x31BF0d589E1c2f459F9E635d60430903EAF68053",
+      address: "0xfeE35cdE2922C2E9349cB924FF5d61D34D0A53A3",
       abi: [
         {
           inputs: [],
